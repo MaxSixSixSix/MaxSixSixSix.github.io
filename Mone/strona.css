@@ -1,0 +1,100 @@
+.link{
+	color: rgb(1,38,57);
+}
+
+.title {
+ 	color: rgb(1,38,57);
+ 	font-size: 30px;
+ 	text-align: center;
+ 	margin-top: 40px; 	
+ 	margin-right: 5%;
+ 	font-family: cursive;
+ 	border: 4.5px dashed rgb(1,38,57);
+ 	margin-left: 40%;
+ 	margin-right: 42.8%;
+}
+
+.text1 {
+	background-color: rgba(235,235,236,0.8);
+	color: #230D24;
+	font-family: cursive; 
+	font-size: 19.9px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 7px 7px rgba(235,235,236,0.8);
+	margin: 20px 20px 20px 20px;
+	padding: 10px;
+}
+
+body{
+	background: url(Eifeleva-bashnya-018.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+     
+#img1{
+	border-radius: 10px;
+	float: left;
+	margin-top: 38px;
+	margin-left: 20px;
+	margin-right: 8px;
+	box-shadow: 3px 3px 7px rgba(1,38,57);
+}
+
+.img_24{
+	float: left;
+	width: 400px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 7px rgba(1,38,57);
+}
+
+#img_3{
+	transition: 1s all;  
+	margin-left: 111px;
+}
+
+#img_2{
+	transition: 1s all;
+	margin-left: 110px;
+}
+
+
+#img_1{
+	transition: 1s all;	
+	margin-left: 39px;
+}
+
+#lol_1{
+	margin-top: 38px;
+	margin-left: 20px;
+	margin-right: 8px;
+}
+
+#lol_2{
+	margin-top: 38px;
+	margin-left: 20px;
+	margin-right: 8px;
+}
+
+#lol_3{
+	margin-top: 38px;
+	margin-left: 20px;
+	margin-right: 8px;
+}
+
+#img_1:hover{
+	transition: 1s all;
+	transform: rotate(25deg);	
+	box-shadow: 0px 0px 7px 7px rgba(255,255,255,0.8);
+}
+
+#img_2:hover{
+	transition: 1s all;
+	transform: rotate(25deg);
+	box-shadow: 0px 0px 7px 7px rgba(255,255,255,0.8);
+}
+
+#img_3:hover{
+	transition: 1s all;
+	transform: rotate(25deg);
+	box-shadow: 0px 0px 7px 7px rgba(255,255,255,0.8);
+}
